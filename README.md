@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my graduation project at FCAI
+- 🌱 I’m currently learning Next.js for front-end developing
+
 <!--
 **mohamed-3090/mohamed-3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
